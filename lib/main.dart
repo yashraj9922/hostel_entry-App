@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Girls Hostel Entry',
+      title: 'Hostel Entry',
       home: MyHomePage(),
     );
   }
@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Girls Hostel Entry'),
+        title: Text('Hostel Entry'),
       ),
       body: Padding(
         padding: EdgeInsets.all(16.0),
