@@ -1,4 +1,4 @@
-# girls_hostel_entry
+# hostel_entry
 
 A new Flutter project.
 
